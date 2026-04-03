@@ -4,7 +4,7 @@ Serie práctica para desarrolladores hispanohablantes que quieren integrar la AP
 
 ## Capítulos
 - [Capítulo 1: SDK, API keys y variables de entorno](./capitulo-1-sdk-variables.md)
-- Capítulo 2: Tu primera API call (próximamente)
+- [Capítulo 2: API calls y herramientas](./capitulo-2-api-calls.md)
 - Capítulo 3: Trabajando con imágenes y archivos (próximamente)
 
 **Contribuciones bienvenidas** | Licencia MIT
